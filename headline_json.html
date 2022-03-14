@@ -1,0 +1,37 @@
+<html>
+<head>
+        <title >Membaca File Json</title>
+        <script src="jquery-1.9.1.min.js"></script>
+
+    <script type="text/javascript">
+            $(function(){
+                $.get('headline.json',function(obj){
+
+                    var str = "<table border=1;>";
+
+                    str+="<tr><td>No</td><td>Judul Headline</td><td>Kategori</td><td>Publikasi</td><td>Waktu Scraping</td></tr>";
+
+                    $.each(obj, function(n,data){
+                        str+="<tr><td>"+(n+1)+"</td>";
+                        str+="<td>"+data.Judul+"</td>";
+                        str+="<td>"+data.Kategori+"</td>";
+                        str+="<td>"+data.Waktu_publish+"</td>";
+                        str+="<td>"+data.Waktu_scrapping+"</td></tr>";
+                    });
+                    
+                    str += "</table>";
+                    $('#headline_json').html(str);
+                });
+            });
+        </script>
+</head>
+<body>
+    <body ></body>
+    <h1 style="text-align:center; border:2px solid DodgerBlue;" > Berita Terbaru Republika.co.id</h1>
+    <style>
+        table {border:1px solid black;margin-left:auto;margin-right:auto;}
+    </style>
+    </table>
+    <div id="headline_json"></div>
+</body>
+</html>

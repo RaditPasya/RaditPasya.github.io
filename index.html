@@ -25,6 +25,30 @@
 		"@type": "Organization",
 		"name": ""
 }</script>
+
+<script type="text/javascript">
+  $(function(){
+      $.get('headline.json',function(obj){
+
+          var str = "<table border=1;>";
+
+          str+="<tr><td>No</td><td>Judul Headline</td><td>Kategori</td><td>Publikasi</td><td>Waktu Scraping</td></tr>";
+
+          $.each(obj, function(n,data){
+              str+="<tr><td>"+(n+1)+"</td>";
+              str+="<td>"+data.Judul+"</td>";
+              str+="<td>"+data.Kategori+"</td>";
+              str+="<td>"+data.Waktu_publish+"</td>";
+              str+="<td>"+data.Waktu_scrapping+"</td></tr>";
+          });
+          
+          str += "</table>";
+          $('#headline_json').html(str);
+      });
+  });
+</script>
+
+
     <meta name="theme-color" content="#1f203a">
     <meta property="og:title" content="Raditya PH">
     <meta property="og:type" content="website">
@@ -146,8 +170,12 @@
       <div class="u-clearfix u-sheet u-sheet-1">
         <h3 class="u-align-left u-text u-text-1">Harapan setelah lulus</h3>
         <p class="u-align-left u-text u-text-2">" Harapan saya setelah lulus dari JTK adalah saya memiliki kemampuan di level professional yang dapat digunakan sebagai anak tangga pertama dalam perjalanan karir saya sebagai seorang programmer dan juga memiliki koneksi untuk membantu tidak hanya diri saya sendiri tetapi juga lulusan JTK di masa yang akan datang"</p>
-        <h3 class="u-text u-text-3">Lesson Learned</h3>
-        <p class="u-text u-text-4">"Lesson learned yang saya dapatkan dari kegiatan praktikum proyek kali ini adalah bagaimana cara konfigurasi git dan juga github sehingga dapat menghosting suatu website secara gratis dan juga cara mendowload template dan mengeditnya sehingga sesuai dengan keinginan."</p>
+        <a href="Page-1.html">
+          <h3 style="text-align:center; border:2px solid #000AFF" class="u-text u-text-3">Click Here</h3>
+        </a>
+        
+
+        <p style= text-align:center class="u-text u-text-4">For Republika.co.id latest news list</p>
       </div>
     </section>
     <section class="u-clearfix u-grey-light-2 u-typography-custom-page-typography-12--Map u-section-5" id="sec-5b16">
@@ -160,6 +188,7 @@
       </div>
     </section>
     
+    <div id="headline_json"></div>
     
     <footer class="u-align-center u-clearfix u-footer u-palette-1-base u-footer" id="sec-0f65"><div class="u-clearfix u-sheet u-sheet-1">
         <p class="u-small-text u-text u-text-variant u-text-1">Raditya Pasya Heryandi | D4 - Teknik Informatika</p>
