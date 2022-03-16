@@ -1,0 +1,702 @@
+[
+      {
+            "Judul": "Our Planet",
+            "Kategori": "Documentary",
+            "Rating": "9.3",
+            "Gambar": "https://m.media-amazon.com/images/M/MV5BN2I1ZjA5YjQtYmQ0ZS00ZmE1LTk1ZjktNTQ5ODIzY2JiZDdhXkEyXkFqcGdeQXVyNjg2NjQwMDQ@._V1_UY209_CR0,0,140,209_AL_.jpg",
+            "Waktu_scrapping": "16/03/2022 23:11:52"
+      },
+      {
+            "Judul": "The Last Dance",
+            "Kategori": "Documentary, Biography, History",
+            "Rating": "9.1",
+            "Gambar": "https://m.media-amazon.com/images/M/MV5BY2U1ZTU4OWItNGU2MC00MTg1LTk4NzUtYTk3ODhjYjI0MzlmXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_UY209_CR0,0,140,209_AL_.jpg",
+            "Waktu_scrapping": "16/03/2022 23:11:52"
+      },
+      {
+            "Judul": "When They See Us",
+            "Kategori": "Biography, Crime, Drama",
+            "Rating": "8.9",
+            "Gambar": "https://m.media-amazon.com/images/M/MV5BZmJjM2YzOWEtOTYxYi00YjhkLTliMzgtMTA2MTc0NDQ1MDM4XkEyXkFqcGdeQXVyODY5OTk4MA@@._V1_UY209_CR0,0,140,209_AL_.jpg",
+            "Waktu_scrapping": "16/03/2022 23:11:52"
+      },
+      {
+            "Judul": "Black Mirror",
+            "Kategori": "Drama, Mystery, Sci-Fi",
+            "Rating": "8.8",
+            "Gambar": "https://m.media-amazon.com/images/M/MV5BYTM3YWVhMDMtNjczMy00NGEyLWJhZDctYjNhMTRkNDE0ZTI1XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_UY209_CR0,0,140,209_AL_.jpg",
+            "Waktu_scrapping": "16/03/2022 23:11:52"
+      },
+      {
+            "Judul": "Narcos",
+            "Kategori": "Biography, Crime, Drama",
+            "Rating": "8.8",
+            "Gambar": "https://m.media-amazon.com/images/M/MV5BNmFjODU3YzgtMGUwNC00ZGI3LWFkZjQtMjkxZDc3NmQ1MzcyXkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_UY209_CR0,0,140,209_AL_.jpg",
+            "Waktu_scrapping": "16/03/2022 23:11:52"
+      },
+      {
+            "Judul": "Dark",
+            "Kategori": "Crime, Drama, Mystery",
+            "Rating": "8.8",
+            "Gambar": "https://m.media-amazon.com/images/M/MV5BOTk2NzUyOTctZDdlMS00MDJlLTgzNTEtNzQzYjFhNjA0YjBjXkEyXkFqcGdeQXVyMjg1NDcxNDE@._V1_UY209_CR0,0,140,209_AL_.jpg",
+            "Waktu_scrapping": "16/03/2022 23:11:52"
+      },
+      {
+            "Judul": "Stranger Things",
+            "Kategori": "Drama, Fantasy, Horror",
+            "Rating": "8.7",
+            "Gambar": "https://m.media-amazon.com/images/M/MV5BN2ZmYjg1YmItNWQ4OC00YWM0LWE0ZDktYThjOTZiZjhhN2Q2XkEyXkFqcGdeQXVyNjgxNTQ3Mjk@._V1_UY209_CR0,0,140,209_AL_.jpg",
+            "Waktu_scrapping": "16/03/2022 23:11:52"
+      },
+      {
+            "Judul": "House of Cards",
+            "Kategori": "Drama",
+            "Rating": "8.7",
+            "Gambar": "https://m.media-amazon.com/images/M/MV5BODM1MDU2NjY5NF5BMl5BanBnXkFtZTgwMDkxNTcwNjM@._V1_UY209_CR0,0,140,209_AL_.jpg",
+            "Waktu_scrapping": "16/03/2022 23:11:52"
+      },
+      {
+            "Judul": "Arrested Development",
+            "Kategori": "Comedy",
+            "Rating": "8.7",
+            "Gambar": "https://m.media-amazon.com/images/M/MV5BNTFlYTE2YTItZmQ1NS00ZWQ5LWI3OGUtYTQzNDMyZmEyYTZjXkEyXkFqcGdeQXVyNDg4NjY5OTQ@._V1_UY209_CR0,0,140,209_AL_.jpg",
+            "Waktu_scrapping": "16/03/2022 23:11:52"
+      },
+      {
+            "Judul": "The Crown",
+            "Kategori": "Biography, Drama, History",
+            "Rating": "8.7",
+            "Gambar": "https://m.media-amazon.com/images/M/MV5BZmY0MzBlNjctNTRmNy00Njk3LWFjMzctMWQwZDAwMGJmY2MyXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_UY209_CR0,0,140,209_AL_.jpg",
+            "Waktu_scrapping": "16/03/2022 23:11:52"
+      },
+      {
+            "Judul": "BoJack Horseman",
+            "Kategori": "Animation, Comedy, Drama",
+            "Rating": "8.8",
+            "Gambar": "https://m.media-amazon.com/images/M/MV5BYWQwMDNkM2MtODU4OS00OTY3LTgwOTItNjE2Yzc0MzRkMDllXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_UY209_CR0,0,140,209_AL_.jpg",
+            "Waktu_scrapping": "16/03/2022 23:11:52"
+      },
+      {
+            "Judul": "Anne with an E",
+            "Kategori": "Drama, Family",
+            "Rating": "8.7",
+            "Gambar": "https://m.media-amazon.com/images/M/MV5BNThmMzJlNzgtYmY5ZC00MDllLThmZTMtNTRiMjQwNmY0NmRhXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_UY209_CR13,0,140,209_AL_.jpg",
+            "Waktu_scrapping": "16/03/2022 23:11:52"
+      },
+      {
+            "Judul": "Formula 1: Drive to Survive",
+            "Kategori": "Documentary, Sport",
+            "Rating": "8.6",
+            "Gambar": "https://m.media-amazon.com/images/M/MV5BMzVkMGU0YWMtOWQxMC00MjFhLTg1NjAtMDFlZTZlYzJlMjlhXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UY209_CR4,0,140,209_AL_.jpg",
+            "Waktu_scrapping": "16/03/2022 23:11:52"
+      },
+      {
+            "Judul": "Daredevil",
+            "Kategori": "Action, Crime, Drama",
+            "Rating": "8.7",
+            "Gambar": "https://m.media-amazon.com/images/M/MV5BODcwOTg2MDE3NF5BMl5BanBnXkFtZTgwNTUyNTY1NjM@._V1_UY209_CR0,0,140,209_AL_.jpg",
+            "Waktu_scrapping": "16/03/2022 23:11:52"
+      },
+      {
+            "Judul": "The Queen's Gambit",
+            "Kategori": "Drama",
+            "Rating": "8.6",
+            "Gambar": "https://m.media-amazon.com/images/M/MV5BM2EwMmRhMmUtMzBmMS00ZDQ3LTg4OGEtNjlkODk3ZTMxMmJlXkEyXkFqcGdeQXVyMjM5ODk1NDU@._V1_UY209_CR0,0,140,209_AL_.jpg",
+            "Waktu_scrapping": "16/03/2022 23:11:52"
+      },
+      {
+            "Judul": "Mindhunter",
+            "Kategori": "Crime, Drama, Mystery",
+            "Rating": "8.6",
+            "Gambar": "https://m.media-amazon.com/images/M/MV5BNWNmYzQ1ZWUtYTQ3ZS00Y2UwLTlkMDctZThlOTJkMGJiNzBiXkEyXkFqcGdeQXVyNjg2NjQwMDQ@._V1_UY209_CR0,0,140,209_AL_.jpg",
+            "Waktu_scrapping": "16/03/2022 23:11:52"
+      },
+      {
+            "Judul": "The Haunting of Hill House",
+            "Kategori": "Drama, Horror, Mystery",
+            "Rating": "8.6",
+            "Gambar": "https://m.media-amazon.com/images/M/MV5BMTU4NzA4MDEwNF5BMl5BanBnXkFtZTgwMTQxODYzNjM@._V1_UY209_CR0,0,140,209_AL_.jpg",
+            "Waktu_scrapping": "16/03/2022 23:11:52"
+      },
+      {
+            "Judul": "Making a Murderer",
+            "Kategori": "Documentary, Crime",
+            "Rating": "8.6",
+            "Gambar": "https://m.media-amazon.com/images/M/MV5BMTg4Mjc1NjE4Ml5BMl5BanBnXkFtZTgwMjk2NjA1NjM@._V1_UY209_CR0,0,140,209_AL_.jpg",
+            "Waktu_scrapping": "16/03/2022 23:11:52"
+      },
+      {
+            "Judul": "Sacred Games",
+            "Kategori": "Action, Crime, Drama",
+            "Rating": "8.6",
+            "Gambar": "https://m.media-amazon.com/images/M/MV5BMjJlMjJlMzYtNmU5Yy00N2MwLWJmMjEtNWUwZWIyMGViZDgyXkEyXkFqcGdeQXVyOTAzMTc2MjA@._V1_UY209_CR0,0,140,209_AL_.jpg",
+            "Waktu_scrapping": "16/03/2022 23:11:52"
+      },
+      {
+            "Judul": "Hilda",
+            "Kategori": "Animation, Adventure, Comedy",
+            "Rating": "8.6",
+            "Gambar": "https://m.media-amazon.com/images/M/MV5BYTBkMjBiOTYtYThiOS00YmFlLWFhZmQtNGYzZDNlOTg2N2Q1XkEyXkFqcGdeQXVyODQzNTE3ODc@._V1_UY209_CR5,0,140,209_AL_.jpg",
+            "Waktu_scrapping": "16/03/2022 23:11:52"
+      },
+      {
+            "Judul": "The Punisher",
+            "Kategori": "Action, Crime, Drama",
+            "Rating": "8.5",
+            "Gambar": "https://m.media-amazon.com/images/M/MV5BMTExODIwOTUxNzFeQTJeQWpwZ15BbWU4MDE5MDA0MTcz._V1_UY209_CR0,0,140,209_AL_.jpg",
+            "Waktu_scrapping": "16/03/2022 23:11:52"
+      },
+      {
+            "Judul": "Love, Death & Robots",
+            "Kategori": "Animation, Short, Action",
+            "Rating": "8.5",
+            "Gambar": "https://m.media-amazon.com/images/M/MV5BYjEwOWQ0MjktMjZjNy00Mzc1LWE5NTItMDQ1Yjc0Zjk0NTBlXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_UY209_CR0,0,140,209_AL_.jpg",
+            "Waktu_scrapping": "16/03/2022 23:11:52"
+      },
+      {
+            "Judul": "Trailer Park Boys",
+            "Kategori": "Comedy, Crime",
+            "Rating": "8.6",
+            "Gambar": "https://m.media-amazon.com/images/M/MV5BOTA0NTAwMTc1MF5BMl5BanBnXkFtZTgwODk2NjY0ODE@._V1_UY209_CR4,0,140,209_AL_.jpg",
+            "Waktu_scrapping": "16/03/2022 23:11:52"
+      },
+      {
+            "Judul": "Trollhunters: Tales of Arcadia",
+            "Kategori": "Animation, Action, Adventure",
+            "Rating": "8.5",
+            "Gambar": "https://m.media-amazon.com/images/M/MV5BN2Y2YWE0ZDMtNzQzMC00MDI0LThlZjAtMWY4YjZlYWM2OWFjXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UY209_CR0,0,140,209_AL_.jpg",
+            "Waktu_scrapping": "16/03/2022 23:11:52"
+      },
+      {
+            "Judul": "Chef's Table",
+            "Kategori": "Documentary",
+            "Rating": "8.6",
+            "Gambar": "https://m.media-amazon.com/images/M/MV5BMjE3MDQ2OTYyN15BMl5BanBnXkFtZTgwNjQ0Nzg0NzM@._V1_UY209_CR0,0,140,209_AL_.jpg",
+            "Waktu_scrapping": "16/03/2022 23:11:52"
+      },
+      {
+            "Judul": "Ozark",
+            "Kategori": "Crime, Drama, Thriller",
+            "Rating": "8.5",
+            "Gambar": "https://m.media-amazon.com/images/M/MV5BNGY3MmUzNjktZWEzNi00ODdiLTk4ZDItZjBhMjZlYzI0NTJjXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_UY209_CR0,0,140,209_AL_.jpg",
+            "Waktu_scrapping": "16/03/2022 23:11:52"
+      },
+      {
+            "Judul": "The Last Kingdom",
+            "Kategori": "Action, Drama, History",
+            "Rating": "8.5",
+            "Gambar": "https://m.media-amazon.com/images/M/MV5BMjE1MzYzNjk3OF5BMl5BanBnXkFtZTgwMzk0MzYwNzE@._V1_UX140_CR0,0,140,209_AL_.jpg",
+            "Waktu_scrapping": "16/03/2022 23:11:52"
+      },
+      {
+            "Judul": "After Life",
+            "Kategori": "Comedy, Drama",
+            "Rating": "8.5",
+            "Gambar": "https://m.media-amazon.com/images/M/MV5BZjdjOWIxMDgtYTgwNS00MjE4LTliZWYtZGI1NDhhZmIyYjM1XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_UY209_CR0,0,140,209_AL_.jpg",
+            "Waktu_scrapping": "16/03/2022 23:11:52"
+      },
+      {
+            "Judul": "Unbelievable",
+            "Kategori": "Crime, Drama",
+            "Rating": "8.4",
+            "Gambar": "https://m.media-amazon.com/images/M/MV5BN2Q3OWQ1Y2UtN2E3OS00ODA2LWE1Y2EtYmY5OWMzNWYzMDZmXkEyXkFqcGdeQXVyMzY0MTE3NzU@._V1_UY209_CR0,0,140,209_AL_.jpg",
+            "Waktu_scrapping": "16/03/2022 23:11:52"
+      },
+      {
+            "Judul": "Narcos: Mexico",
+            "Kategori": "Crime, Drama",
+            "Rating": "8.4",
+            "Gambar": "https://m.media-amazon.com/images/M/MV5BODc1NGMwNGQtNjlmMy00OGQ5LWJhNmItZTQyMTA4MjcyM2U1XkEyXkFqcGdeQXVyMjkwOTAyMDU@._V1_UY209_CR0,0,140,209_AL_.jpg",
+            "Waktu_scrapping": "16/03/2022 23:11:52"
+      },
+      {
+            "Judul": "The Mechanism",
+            "Kategori": "Crime, Drama, Thriller",
+            "Rating": "8.4",
+            "Gambar": "https://m.media-amazon.com/images/M/MV5BMzQ2YmQ2MjMtMTVkMy00NWI1LTg0YzctMGI5MTBiN2FhMjMzXkEyXkFqcGdeQXVyMTkzODUwNzk@._V1_UY209_CR2,0,140,209_AL_.jpg",
+            "Waktu_scrapping": "16/03/2022 23:11:52"
+      },
+      {
+            "Judul": "Kingdom",
+            "Kategori": "Action, Drama, History",
+            "Rating": "8.4",
+            "Gambar": "https://m.media-amazon.com/images/M/MV5BNTBlZmE4YzItNTY5Mi00NmIxLTlhZTAtOWIxNjFlNTMzNmI1XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UY209_CR0,0,140,209_AL_.jpg",
+            "Waktu_scrapping": "16/03/2022 23:11:52"
+      },
+      {
+            "Judul": "The Dark Crystal: Age of Resistance",
+            "Kategori": "Adventure, Drama, Family",
+            "Rating": "8.4",
+            "Gambar": "https://m.media-amazon.com/images/M/MV5BNjVjODZmYWEtNjZhNC00MTdkLTgyMGYtNDBiODRmMzJkMDdjXkEyXkFqcGdeQXVyNjg2NjQwMDQ@._V1_UY209_CR0,0,140,209_AL_.jpg",
+            "Waktu_scrapping": "16/03/2022 23:11:52"
+      },
+      {
+            "Judul": "The Dragon Prince",
+            "Kategori": "Animation, Action, Adventure",
+            "Rating": "8.4",
+            "Gambar": "https://m.media-amazon.com/images/M/MV5BMjA5MjEwODU1MV5BMl5BanBnXkFtZTgwNzk0MzA5NTM@._V1_UY209_CR8,0,140,209_AL_.jpg",
+            "Waktu_scrapping": "16/03/2022 23:11:52"
+      },
+      {
+            "Judul": "Julie and the Phantoms",
+            "Kategori": "Adventure, Comedy, Drama",
+            "Rating": "8.6",
+            "Gambar": "https://m.media-amazon.com/images/M/MV5BMGJiYjIyZDItNDc3Ny00ZWRjLWI2ZTctZGRmZmRmNDYzNTk1XkEyXkFqcGdeQXVyNjEwNTM2Mzc@._V1_UY209_CR0,0,140,209_AL_.jpg",
+            "Waktu_scrapping": "16/03/2022 23:11:52"
+      },
+      {
+            "Judul": "Last Chance U",
+            "Kategori": "Documentary, Sport",
+            "Rating": "8.4",
+            "Gambar": "https://m.media-amazon.com/images/M/MV5BNjgzMjE4Y2EtMzhhNC00NzA1LTg2ZjQtMGI0NWMzZjUzZTNiXkEyXkFqcGdeQXVyMTAwMzM3NDI3._V1_UY209_CR2,0,140,209_AL_.jpg",
+            "Waktu_scrapping": "16/03/2022 23:11:52"
+      },
+      {
+            "Judul": "Money Heist",
+            "Kategori": "Action, Crime, Drama",
+            "Rating": "8.3",
+            "Gambar": "https://m.media-amazon.com/images/M/MV5BNDJkYzY3MzMtMGFhYi00MmQ4LWJkNTgtZGNiZWZmMTMxNzdlXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_UY209_CR0,0,140,209_AL_.jpg",
+            "Waktu_scrapping": "16/03/2022 23:11:52"
+      },
+      {
+            "Judul": "Sex Education",
+            "Kategori": "Comedy, Drama",
+            "Rating": "8.4",
+            "Gambar": "https://m.media-amazon.com/images/M/MV5BOTE0MjQ1NDU3OV5BMl5BanBnXkFtZTgwNTI4MTgwNzM@._V1_UY209_CR0,0,140,209_AL_.jpg",
+            "Waktu_scrapping": "16/03/2022 23:11:52"
+      },
+      {
+            "Judul": "Sense8",
+            "Kategori": "Drama, Mystery, Sci-Fi",
+            "Rating": "8.3",
+            "Gambar": "https://m.media-amazon.com/images/M/MV5BMTU3OTQwOTY2Ml5BMl5BanBnXkFtZTgwMjIzMjYxMjI@._V1_UX140_CR0,0,140,209_AL_.jpg",
+            "Waktu_scrapping": "16/03/2022 23:11:52"
+      },
+      {
+            "Judul": "Master of None",
+            "Kategori": "Comedy, Drama",
+            "Rating": "8.3",
+            "Gambar": "https://m.media-amazon.com/images/M/MV5BYTJlYWJiZTItZGM5NC00MTJjLWFlNTMtMTkxOGFiZTMwNDNlXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_UY209_CR0,0,140,209_AL_.jpg",
+            "Waktu_scrapping": "16/03/2022 23:11:52"
+      },
+      {
+            "Judul": "Atypical",
+            "Kategori": "Comedy, Drama",
+            "Rating": "8.3",
+            "Gambar": "https://m.media-amazon.com/images/M/MV5BMjNjNThmYTUtMjY2Ni00OGE4LTgzOTItYTgzMDllNDM5NTI5XkEyXkFqcGdeQXVyNjEwNTM2Mzc@._V1_UY209_CR0,0,140,209_AL_.jpg",
+            "Waktu_scrapping": "16/03/2022 23:11:52"
+      },
+      {
+            "Judul": "Godless",
+            "Kategori": "Action, Drama, Western",
+            "Rating": "8.3",
+            "Gambar": "https://m.media-amazon.com/images/M/MV5BMTY0NzkxNDcxNF5BMl5BanBnXkFtZTgwOTI5ODM5MzI@._V1_UY209_CR0,0,140,209_AL_.jpg",
+            "Waktu_scrapping": "16/03/2022 23:11:52"
+      },
+      {
+            "Judul": "Grace and Frankie",
+            "Kategori": "Comedy",
+            "Rating": "8.3",
+            "Gambar": "https://m.media-amazon.com/images/M/MV5BZDg1YmI4ZmUtMjNhYS00YWY5LTk0MGQtODI5MGMzNTI4MzYxXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_UY209_CR0,0,140,209_AL_.jpg",
+            "Waktu_scrapping": "16/03/2022 23:11:52"
+      },
+      {
+            "Judul": "Longmire",
+            "Kategori": "Action, Crime, Drama",
+            "Rating": "8.4",
+            "Gambar": "https://m.media-amazon.com/images/M/MV5BMTcxMzIwNzI3M15BMl5BanBnXkFtZTgwODgxMTU5OTE@._V1_UY209_CR0,0,140,209_AL_.jpg",
+            "Waktu_scrapping": "16/03/2022 23:11:52"
+      },
+      {
+            "Judul": "The Get Down",
+            "Kategori": "Drama, Music, Musical",
+            "Rating": "8.3",
+            "Gambar": "https://m.media-amazon.com/images/M/MV5BMjE5Mzg0NzU3OF5BMl5BanBnXkFtZTgwNDg1ODg2MTI@._V1_UY209_CR0,0,140,209_AL_.jpg",
+            "Waktu_scrapping": "16/03/2022 23:11:52"
+      },
+      {
+            "Judul": "The Midnight Gospel",
+            "Kategori": "Animation, Adventure, Comedy",
+            "Rating": "8.2",
+            "Gambar": "https://m.media-amazon.com/images/M/MV5BNWQ1MzBhMzctYmE3My00NjVmLTkyMTItYzJkOTlkNzQ4MjJiXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_UY209_CR0,0,140,209_AL_.jpg",
+            "Waktu_scrapping": "16/03/2022 23:11:52"
+      },
+      {
+            "Judul": "Patriot Act with Hasan Minhaj",
+            "Kategori": "Comedy, News, Talk-Show",
+            "Rating": "8.2",
+            "Gambar": "https://m.media-amazon.com/images/M/MV5BZDUzZmIwYzMtMTNiNS00OTRlLTliYTgtZjljNjNjNTdkNDc4XkEyXkFqcGdeQXVyNjAxNDcwNzY@._V1_UY209_CR8,0,140,209_AL_.jpg",
+            "Waktu_scrapping": "16/03/2022 23:11:52"
+      },
+      {
+            "Judul": "The Witcher",
+            "Kategori": "Action, Adventure, Drama",
+            "Rating": "8.3",
+            "Gambar": "https://m.media-amazon.com/images/M/MV5BN2FiOWU4YzYtMzZiOS00MzcyLTlkOGEtOTgwZmEwMzAxMzA3XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_UY209_CR0,0,140,209_AL_.jpg",
+            "Waktu_scrapping": "16/03/2022 23:11:52"
+      },
+      {
+            "Judul": "The Killing",
+            "Kategori": "Crime, Drama, Mystery",
+            "Rating": "8.3",
+            "Gambar": "https://m.media-amazon.com/images/M/MV5BMTQ5MTUxMzU3Ml5BMl5BanBnXkFtZTgwMDU3NDYxMjE@._V1_UY209_CR0,0,140,209_AL_.jpg",
+            "Waktu_scrapping": "16/03/2022 23:11:52"
+      },
+      {
+            "Judul": "Castlevania",
+            "Kategori": "Animation, Action, Adventure",
+            "Rating": "8.3",
+            "Gambar": "https://m.media-amazon.com/images/M/MV5BMjAzMjU2MjYzMl5BMl5BanBnXkFtZTgwNTQ4Nzk1NjM@._V1_UY209_CR0,0,140,209_AL_.jpg",
+            "Waktu_scrapping": "16/03/2022 23:11:52"
+      },
+      {
+            "Judul": "American Vandal",
+            "Kategori": "Comedy, Crime, Drama",
+            "Rating": "8.1",
+            "Gambar": "https://m.media-amazon.com/images/M/MV5BZTQ2Mjg2M2MtNTExNi00MTgxLTk3MTYtOTI4ZDRmM2JkNWQ4XkEyXkFqcGdeQXVyNzIyMTA4MjA@._V1_UX140_CR0,0,140,209_AL_.jpg",
+            "Waktu_scrapping": "16/03/2022 23:11:52"
+      },
+      {
+            "Judul": "Wild Wild Country",
+            "Kategori": "Documentary, Crime",
+            "Rating": "8.1",
+            "Gambar": "https://m.media-amazon.com/images/M/MV5BNmYzY2I2MGQtYWRkMi00YzMzLWFhMjktZDJlOWE2ZmExYzY2XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_UY209_CR0,0,140,209_AL_.jpg",
+            "Waktu_scrapping": "16/03/2022 23:11:52"
+      },
+      {
+            "Judul": "The Kominsky Method",
+            "Kategori": "Comedy, Drama",
+            "Rating": "8.2",
+            "Gambar": "https://m.media-amazon.com/images/M/MV5BMzA0YTNjOTAtNmVkZi00YjBkLTgyZDItOTFmMzQ0N2E4ZDNiXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_UY209_CR0,0,140,209_AL_.jpg",
+            "Waktu_scrapping": "16/03/2022 23:11:52"
+      },
+      {
+            "Judul": "One Day at a Time",
+            "Kategori": "Comedy, Drama",
+            "Rating": "8.2",
+            "Gambar": "https://m.media-amazon.com/images/M/MV5BOGIwNzA2OWItMDdjYS00YWRhLWE3ODgtN2NhNzIzZmY3ZjZhXkEyXkFqcGdeQXVyODM3ODkyMDk@._V1_UX140_CR0,0,140,209_AL_.jpg",
+            "Waktu_scrapping": "16/03/2022 23:11:52"
+      },
+      {
+            "Judul": "The Trials of Gabriel Fernandez",
+            "Kategori": "Documentary, Crime",
+            "Rating": "8.1",
+            "Gambar": "https://m.media-amazon.com/images/M/MV5BM2JjMmIzOWUtNGM1Mi00MTVjLTllYzctZTJlNjBjZjZlNzhkXkEyXkFqcGdeQXVyMTkxMzMyMTI@._V1_UY209_CR0,0,140,209_AL_.jpg",
+            "Waktu_scrapping": "16/03/2022 23:11:52"
+      },
+      {
+            "Judul": "Lucifer",
+            "Kategori": "Crime, Drama, Fantasy",
+            "Rating": "8.2",
+            "Gambar": "https://m.media-amazon.com/images/M/MV5BNDJjMzc4NGYtZmFmNS00YWY3LThjMzQtYzJlNGFkZGRiOWI1XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_UY209_CR0,0,140,209_AL_.jpg",
+            "Waktu_scrapping": "16/03/2022 23:11:52"
+      },
+      {
+            "Judul": "The End of the F***ing World",
+            "Kategori": "Adventure, Comedy, Crime",
+            "Rating": "8.1",
+            "Gambar": "https://m.media-amazon.com/images/M/MV5BN2ZhNmQ2MjQtMmQzMi00YjE5LTlkMWMtMjk5YzIxMjk2NDc2XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_UY209_CR13,0,140,209_AL_.jpg",
+            "Waktu_scrapping": "16/03/2022 23:11:52"
+      },
+      {
+            "Judul": "Travelers",
+            "Kategori": "Drama, Mystery, Sci-Fi",
+            "Rating": "8.1",
+            "Gambar": "https://m.media-amazon.com/images/M/MV5BMjUzOTQwOTg1MF5BMl5BanBnXkFtZTgwNzE4NzQ3NjM@._V1_UY209_CR0,0,140,209_AL_.jpg",
+            "Waktu_scrapping": "16/03/2022 23:11:52"
+      },
+      {
+            "Judul": "The Keepers",
+            "Kategori": "Documentary, Crime, Mystery",
+            "Rating": "8.1",
+            "Gambar": "https://m.media-amazon.com/images/M/MV5BODgwNDM1Mzg4NF5BMl5BanBnXkFtZTgwOTQ5NzQwMjI@._V1_UY209_CR0,0,140,209_AL_.jpg",
+            "Waktu_scrapping": "16/03/2022 23:11:52"
+      },
+      {
+            "Judul": "Lovesick",
+            "Kategori": "Comedy",
+            "Rating": "8.1",
+            "Gambar": "https://m.media-amazon.com/images/M/MV5BMzdjNDU5ZTEtNTA3OC00MmZkLTk0MDAtNDM1OTg3Y2NmZGM1XkEyXkFqcGdeQXVyMjA4Njg4OTQ@._V1_UY209_CR4,0,140,209_AL_.jpg",
+            "Waktu_scrapping": "16/03/2022 23:11:52"
+      },
+      {
+            "Judul": "Comedians in Cars Getting Coffee",
+            "Kategori": "Comedy, Family, Talk-Show",
+            "Rating": "8",
+            "Gambar": "https://m.media-amazon.com/images/M/MV5BMWExMDNjMGYtNDcwYy00ZmY4LTliY2UtYWNiNjY4NDY2MTBkXkEyXkFqcGdeQXVyMzU3MTc5OTE@._V1_UY209_CR1,0,140,209_AL_.jpg",
+            "Waktu_scrapping": "16/03/2022 23:11:52"
+      },
+      {
+            "Judul": "Dota: Dragon's Blood",
+            "Kategori": "Animation, Action, Adventure",
+            "Rating": "7.9",
+            "Gambar": "https://m.media-amazon.com/images/M/MV5BNjVjYmQ4N2QtNzc1Yi00MzI0LTlmNWMtZTU2MjcxYzIwYmY4XkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1_UY209_CR0,0,140,209_AL_.jpg",
+            "Waktu_scrapping": "16/03/2022 23:11:52"
+      },
+      {
+            "Judul": "Dirty Money",
+            "Kategori": "Documentary, Crime",
+            "Rating": "8.1",
+            "Gambar": "https://m.media-amazon.com/images/M/MV5BNTZjOTI2N2MtYjU0OC00YzFlLWIxNzQtYzY3MjgyOTU0MDJhXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_UY209_CR0,0,140,209_AL_.jpg",
+            "Waktu_scrapping": "16/03/2022 23:11:52"
+      },
+      {
+            "Judul": "Voltron: Legendary Defender",
+            "Kategori": "Animation, Action, Adventure",
+            "Rating": "8.1",
+            "Gambar": "https://m.media-amazon.com/images/M/MV5BMjA2MzMzNTg5NV5BMl5BanBnXkFtZTgwMzAzOTc4ODE@._V1_UY209_CR0,0,140,209_AL_.jpg",
+            "Waktu_scrapping": "16/03/2022 23:11:52"
+      },
+      {
+            "Judul": "Orange Is the New Black",
+            "Kategori": "Comedy, Crime, Drama",
+            "Rating": "8.1",
+            "Gambar": "https://m.media-amazon.com/images/M/MV5BYjYyM2FmMmMtZDgyZi00NGU3LWI3NzktODllZDY0YzQyNzgyXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_UY209_CR0,0,140,209_AL_.jpg",
+            "Waktu_scrapping": "16/03/2022 23:11:52"
+      },
+      {
+            "Judul": "The Umbrella Academy",
+            "Kategori": "Action, Adventure, Comedy",
+            "Rating": "8",
+            "Gambar": "https://m.media-amazon.com/images/M/MV5BNzA5MjkwYzMtNGY2MS00YWRjLThkNTktOTNmMzdlZjE3Y2IxXkEyXkFqcGdeQXVyMjkwMzMxODg@._V1_UY209_CR1,0,140,209_AL_.jpg",
+            "Waktu_scrapping": "16/03/2022 23:11:52"
+      },
+      {
+            "Judul": "Altered Carbon",
+            "Kategori": "Action, Drama, Sci-Fi",
+            "Rating": "8",
+            "Gambar": "https://m.media-amazon.com/images/M/MV5BMjU2ZGQwYTctNTk2Ny00ODNmLTkzNDQtMWY2ZjM4MDI5ZmM5XkEyXkFqcGdeQXVyNDIzMzcwNjc@._V1_UY209_CR0,0,140,209_AL_.jpg",
+            "Waktu_scrapping": "16/03/2022 23:11:52"
+      },
+      {
+            "Judul": "Marco Polo",
+            "Kategori": "Action, Adventure, Drama",
+            "Rating": "8",
+            "Gambar": "https://m.media-amazon.com/images/M/MV5BMTcwMDU5NzMzOV5BMl5BanBnXkFtZTgwNzk5NTE0MzE@._V1_UY209_CR0,0,140,209_AL_.jpg",
+            "Waktu_scrapping": "16/03/2022 23:11:52"
+      },
+      {
+            "Judul": "Unorthodox",
+            "Kategori": "Drama",
+            "Rating": "8",
+            "Gambar": "https://m.media-amazon.com/images/M/MV5BMGY4NzZlMDUtMzk2NC00OWEzLTkwMGUtYmFjN2E1YWZlNzRiXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UY209_CR4,0,140,209_AL_.jpg",
+            "Waktu_scrapping": "16/03/2022 23:11:52"
+      },
+      {
+            "Judul": "Dead to Me",
+            "Kategori": "Comedy, Crime, Drama",
+            "Rating": "8",
+            "Gambar": "https://m.media-amazon.com/images/M/MV5BNTcyOTA3ZWUtOWEwMy00YjI5LWIyNjctNTAyYjI5ZmE0NGI4XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UY209_CR0,0,140,209_AL_.jpg",
+            "Waktu_scrapping": "16/03/2022 23:11:52"
+      },
+      {
+            "Judul": "Big Mouth",
+            "Kategori": "Animation, Comedy, Romance",
+            "Rating": "8",
+            "Gambar": "https://m.media-amazon.com/images/M/MV5BYjcyMmYwNzEtNTgxYS00ZDVkLTg0YzEtNmUzNmQ1NzM2MzMxXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_UY209_CR0,0,140,209_AL_.jpg",
+            "Waktu_scrapping": "16/03/2022 23:11:52"
+      },
+      {
+            "Judul": "GLOW",
+            "Kategori": "Comedy, Drama, Sport",
+            "Rating": "8",
+            "Gambar": "https://m.media-amazon.com/images/M/MV5BY2RjYzFkZDUtYzNjNC00MzEyLWFmZmItODc2YWFlOWExOWI4XkEyXkFqcGdeQXVyNDg4NjY5OTQ@._V1_UY209_CR0,0,140,209_AL_.jpg",
+            "Waktu_scrapping": "16/03/2022 23:11:52"
+      },
+      {
+            "Judul": "Don't F**k with Cats: Hunting an Internet Killer",
+            "Kategori": "Documentary, Crime",
+            "Rating": "8",
+            "Gambar": "https://m.media-amazon.com/images/M/MV5BNGU2OGJkZTItYmRmNi00YTI2LWFkNzEtNjY2MGZiZTRhMzRkXkEyXkFqcGdeQXVyMjYwNDA2MDE@._V1_UY209_CR1,0,140,209_AL_.jpg",
+            "Waktu_scrapping": "16/03/2022 23:11:52"
+      },
+      {
+            "Judul": "F Is for Family",
+            "Kategori": "Animation, Comedy, Drama",
+            "Rating": "8",
+            "Gambar": "https://m.media-amazon.com/images/M/MV5BMjhiNTZhNGEtYTRhNS00NGZlLWIxNjktYzI0NDAyMTQ0NzY3XkEyXkFqcGdeQXVyNjQ2MjQ5NzM@._V1_UY209_CR6,0,140,209_AL_.jpg",
+            "Waktu_scrapping": "16/03/2022 23:11:52"
+      },
+      {
+            "Judul": "Lilyhammer",
+            "Kategori": "Comedy, Crime, Drama",
+            "Rating": "8",
+            "Gambar": "https://m.media-amazon.com/images/M/MV5BMTU5NjAyOTkyM15BMl5BanBnXkFtZTgwNzIzODAwMzE@._V1_UY209_CR0,0,140,209_AL_.jpg",
+            "Waktu_scrapping": "16/03/2022 23:11:52"
+      },
+      {
+            "Judul": "Rise of Empires: Ottoman",
+            "Kategori": "Documentary, Drama, History",
+            "Rating": "7.9",
+            "Gambar": "https://m.media-amazon.com/images/M/MV5BODIyNGU3OGMtNzBiYi00YTA4LTkzNjItYzBjZDgwMDUyMDg1XkEyXkFqcGdeQXVyOTkzODAxNTE@._V1_UY209_CR13,0,140,209_AL_.jpg",
+            "Waktu_scrapping": "16/03/2022 23:11:52"
+      },
+      {
+            "Judul": "On My Block",
+            "Kategori": "Comedy, Drama",
+            "Rating": "8",
+            "Gambar": "https://m.media-amazon.com/images/M/MV5BY2Q0MDJiNGYtZTU0MS00YzBkLTkzNGEtNTUzNzQ4MDA1YjMwXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_UY209_CR0,0,140,209_AL_.jpg",
+            "Waktu_scrapping": "16/03/2022 23:11:52"
+      },
+      {
+            "Judul": "DreamWorks Dragons",
+            "Kategori": "Animation, Action, Adventure",
+            "Rating": "8",
+            "Gambar": "https://m.media-amazon.com/images/M/MV5BMTM2OTU0Mjg0MF5BMl5BanBnXkFtZTcwMTM1NTgyOQ@@._V1_UY209_CR69,0,140,209_AL_.jpg",
+            "Waktu_scrapping": "16/03/2022 23:11:52"
+      },
+      {
+            "Judul": "Jessica Jones",
+            "Kategori": "Action, Crime, Drama",
+            "Rating": "7.9",
+            "Gambar": "https://m.media-amazon.com/images/M/MV5BM2QyNmZkNTYtZWQyZi00NDhhLWEzMDItYmIzY2U4ZWVmOWNhXkEyXkFqcGdeQXVyNDg4NjY5OTQ@._V1_UY209_CR0,0,140,209_AL_.jpg",
+            "Waktu_scrapping": "16/03/2022 23:11:52"
+      },
+      {
+            "Judul": "The OA",
+            "Kategori": "Drama, Fantasy, Mystery",
+            "Rating": "7.9",
+            "Gambar": "https://m.media-amazon.com/images/M/MV5BMTY5OTkwNDkzOF5BMl5BanBnXkFtZTgwMDEyNzI1NzM@._V1_UY209_CR0,0,140,209_AL_.jpg",
+            "Waktu_scrapping": "16/03/2022 23:11:52"
+      },
+      {
+            "Judul": "Russian Doll",
+            "Kategori": "Adventure, Comedy, Drama",
+            "Rating": "7.8",
+            "Gambar": "https://m.media-amazon.com/images/M/MV5BYmViMjdhZmQtODIyZi00Mzc4LWFhNTItOTk4NGM1NGU0ZDZjXkEyXkFqcGdeQXVyNjc2NTQzMjU@._V1_UY209_CR0,0,140,209_AL_.jpg",
+            "Waktu_scrapping": "16/03/2022 23:11:52"
+      },
+      {
+            "Judul": "Bloodline",
+            "Kategori": "Drama, Thriller",
+            "Rating": "7.9",
+            "Gambar": "https://m.media-amazon.com/images/M/MV5BMTU4OTY0MzM1OV5BMl5BanBnXkFtZTgwMjkxMzE0MjI@._V1_UY209_CR3,0,140,209_AL_.jpg",
+            "Waktu_scrapping": "16/03/2022 23:11:52"
+      },
+      {
+            "Judul": "The Spy",
+            "Kategori": "Drama, History",
+            "Rating": "7.9",
+            "Gambar": "https://m.media-amazon.com/images/M/MV5BM2ZmYjUxZDYtMmZlMi00YjlkLTkwNTItMjcxZDRlOTI3ZTNmXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_UY209_CR0,0,140,209_AL_.jpg",
+            "Waktu_scrapping": "16/03/2022 23:11:52"
+      },
+      {
+            "Judul": "Shadow and Bone",
+            "Kategori": "Action, Adventure, Drama",
+            "Rating": "7.7",
+            "Gambar": "https://m.media-amazon.com/images/M/MV5BNTNhY2JlMmItMGMzZi00ZTM2LTlmNTItZDBkMGVhNGJhYWRhXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_UY209_CR13,0,140,209_AL_.jpg",
+            "Waktu_scrapping": "16/03/2022 23:11:52"
+      },
+      {
+            "Judul": "Never Have I Ever",
+            "Kategori": "Comedy, Drama",
+            "Rating": "7.9",
+            "Gambar": "https://m.media-amazon.com/images/M/MV5BYTFlYWRhYjEtNDU3MC00ZTRiLTlmY2MtNGViODJlNDczNTA4XkEyXkFqcGdeQXVyNjY1MTg4Mzc@._V1_UY209_CR0,0,140,209_AL_.jpg",
+            "Waktu_scrapping": "16/03/2022 23:11:52"
+      },
+      {
+            "Judul": "How to Sell Drugs Online (Fast)",
+            "Kategori": "Comedy, Crime, Drama",
+            "Rating": "7.9",
+            "Gambar": "https://m.media-amazon.com/images/M/MV5BZjIzNTkyNjktNDdmMy00MmI4LWFlN2MtNDllYTVhZjljNWFiXkEyXkFqcGdeQXVyMTAwMzM3NDI3._V1_UY209_CR13,0,140,209_AL_.jpg",
+            "Waktu_scrapping": "16/03/2022 23:11:52"
+      },
+      {
+            "Judul": "The Staircase",
+            "Kategori": "Documentary, Crime, Drama",
+            "Rating": "7.9",
+            "Gambar": "https://m.media-amazon.com/images/M/MV5BNTU4NTE3MDY4NF5BMl5BanBnXkFtZTgwODk4NjY1NTM@._V1_UY209_CR0,0,140,209_AL_.jpg",
+            "Waktu_scrapping": "16/03/2022 23:11:52"
+      },
+      {
+            "Judul": "Suburra: Blood on Rome",
+            "Kategori": "Action, Crime",
+            "Rating": "8",
+            "Gambar": "https://m.media-amazon.com/images/M/MV5BM2MwN2Y4ZWEtNTk2Mi00MzcwLTk1YWMtMmQzNGRlYjBkMDFmXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_UY209_CR0,0,140,209_AL_.jpg",
+            "Waktu_scrapping": "16/03/2022 23:11:52"
+      },
+      {
+            "Judul": "Inside Bill's Brain: Decoding Bill Gates",
+            "Kategori": "Documentary",
+            "Rating": "7.9",
+            "Gambar": "https://m.media-amazon.com/images/M/MV5BNjI4OWJlOGUtMjhlNy00MTA3LTkzZTgtMTZiZjU5YWJjZWZiXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UY209_CR0,0,140,209_AL_.jpg",
+            "Waktu_scrapping": "16/03/2022 23:11:52"
+      },
+      {
+            "Judul": "Maniac",
+            "Kategori": "Comedy, Drama, Sci-Fi",
+            "Rating": "7.7",
+            "Gambar": "https://m.media-amazon.com/images/M/MV5BMDMwOTgyNzYtNWI2Zi00MDcwLWEyNmUtMGQ5YzA3ZTljMTA2XkEyXkFqcGdeQXVyNjU2ODM5MjU@._V1_UY209_CR2,0,140,209_AL_.jpg",
+            "Waktu_scrapping": "16/03/2022 23:11:52"
+      },
+      {
+            "Judul": "Santa Clarita Diet",
+            "Kategori": "Comedy, Horror",
+            "Rating": "7.9",
+            "Gambar": "https://m.media-amazon.com/images/M/MV5BNTIwMDkzNTMwMF5BMl5BanBnXkFtZTgwNDA4MjI2NzM@._V1_UY209_CR0,0,140,209_AL_.jpg",
+            "Waktu_scrapping": "16/03/2022 23:11:52"
+      },
+      {
+            "Judul": "A Series of Unfortunate Events",
+            "Kategori": "Adventure, Comedy, Drama",
+            "Rating": "7.8",
+            "Gambar": "https://m.media-amazon.com/images/M/MV5BMTYzMjA3OTgxOV5BMl5BanBnXkFtZTgwMjAwMDU5NjM@._V1_UY209_CR0,0,140,209_AL_.jpg",
+            "Waktu_scrapping": "16/03/2022 23:11:52"
+      },
+      {
+            "Judul": "Conversations with a Killer: The Ted Bundy Tapes",
+            "Kategori": "Documentary, Biography, Crime",
+            "Rating": "7.8",
+            "Gambar": "https://m.media-amazon.com/images/M/MV5BMTI0NGQ3YTAtNmI1Yi00ODM4LWFhODAtMTU3MjM3ZTI4NGFkXkEyXkFqcGdeQXVyNDg4NjY5OTQ@._V1_UY209_CR0,0,140,209_AL_.jpg",
+            "Waktu_scrapping": "16/03/2022 23:11:52"
+      },
+      {
+            "Judul": "El Chapo",
+            "Kategori": "Biography, Crime, Drama",
+            "Rating": "7.8",
+            "Gambar": "https://m.media-amazon.com/images/M/MV5BZjlhNjE5MTktMjk3Mi00MWE5LTkyMjEtOTQ2N2RkZjg3MzA2XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UY209_CR4,0,140,209_AL_.jpg",
+            "Waktu_scrapping": "16/03/2022 23:11:52"
+      },
+      {
+            "Judul": "Undercover",
+            "Kategori": "Crime, Drama, Thriller",
+            "Rating": "7.9",
+            "Gambar": "https://m.media-amazon.com/images/M/MV5BODZjNDBhZGUtZTAxYi00MzdmLWJkZDMtZDQ0YzE1OWM0MzdkXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_UY209_CR0,0,140,209_AL_.jpg",
+            "Waktu_scrapping": "16/03/2022 23:11:52"
+      },
+      {
+            "Judul": "I Think You Should Leave with Tim Robinson",
+            "Kategori": "Comedy",
+            "Rating": "7.9",
+            "Gambar": "https://m.media-amazon.com/images/M/MV5BNDAxOWU5ZGItNmI2NC00OTcyLThkM2EtYjk3NDQzYWI5YTM2XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UY209_CR4,0,140,209_AL_.jpg",
+            "Waktu_scrapping": "16/03/2022 23:11:52"
+      },
+      {
+            "Judul": "You",
+            "Kategori": "Crime, Drama, Romance",
+            "Rating": "7.8",
+            "Gambar": "https://m.media-amazon.com/images/M/MV5BMzkzOGFiY2EtZDcyZi00OWNhLThhNmYtYjQ3ODljMTM5ZDBkXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_UY209_CR13,0,140,209_AL_.jpg",
+            "Waktu_scrapping": "16/03/2022 23:11:52"
+      },
+      {
+            "Judul": "Love",
+            "Kategori": "Comedy, Drama, Romance",
+            "Rating": "7.7",
+            "Gambar": "https://m.media-amazon.com/images/M/MV5BYzgwMWI4ZGMtOGYyMi00ZmYyLWE0MzUtYmU5MjE1NDQ5MDhmXkEyXkFqcGdeQXVyNjEwNTM2Mzc@._V1_UY209_CR0,0,140,209_AL_.jpg",
+            "Waktu_scrapping": "16/03/2022 23:11:52"
+      },
+      {
+            "Judul": "Alias Grace",
+            "Kategori": "Biography, Crime, Drama",
+            "Rating": "7.7",
+            "Gambar": "https://m.media-amazon.com/images/M/MV5BMjI4OTI1NTkwNV5BMl5BanBnXkFtZTgwMDc0ODc0MzI@._V1_UX140_CR0,0,140,209_AL_.jpg",
+            "Waktu_scrapping": "16/03/2022 23:11:52"
+      },
+      {
+            "Judul": "The Serpent",
+            "Kategori": "Crime, Drama, Thriller",
+            "Rating": "7.6",
+            "Gambar": "https://m.media-amazon.com/images/M/MV5BZTdmOTE0YzEtMDgxOS00NzBiLTllMDktMDU4NGZlZTk3YWJjXkEyXkFqcGdeQXVyNjQ2MjQ5NzM@._V1_UY209_CR3,0,140,209_AL_.jpg",
+            "Waktu_scrapping": "16/03/2022 23:11:52"
+      }
+]
